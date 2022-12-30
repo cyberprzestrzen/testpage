@@ -9,6 +9,6 @@
 <body>
     <header>testpage</header>
     <main>testcontent</main>
-    <footer>&copy;Copyrights cyberprzestzen 2020-2021</footer>
+    <footer>&copy;Copyrights cyberprzestzen 2020-<?php echo date("Y"); ?></footer>
 </body>
 </html>
