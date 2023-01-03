@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>testpage</header>
-    <main>testcontent</main>
+    <main>404</main>
     <footer>&copy;Copyrights cyberprzestzen 2020-<?php echo date("Y"); ?></footer>
 </body>
 </html>
